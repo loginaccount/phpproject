@@ -1,0 +1,1 @@
+Report chart per customer classification.
